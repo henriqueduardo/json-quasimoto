@@ -1,0 +1,184 @@
+{
+  "produto": [
+    {
+      "name": "Dona Flor",
+      "imgUrl": "img/charuto1-nacional.jpeg",
+      "price": "R$ 60,00",
+      "id": 1,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Mocambo",
+      "imgUrl": "img/charuto2-nacional.jpg",
+      "price": "R$ 60,00",
+      "id": 2,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Montesco",
+      "imgUrl": "img/charuto3-nacional.jpeg",
+      "price": "R$ 60,00",
+      "id": 3,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Monte Pascoal",
+      "imgUrl": "img/charuto4-nacional.png",
+      "price": "R$ 60,00",
+      "id": 4,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Santo Antonio",
+      "imgUrl": "img/charuto5-nacional.png",
+      "price": "R$ 60,00",
+      "id": 5,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Cohiba",
+      "imgUrl": "img/charuto6-nacional.jpeg",
+      "price": "R$ 60,00",
+      "id": 6,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Del Patron",
+      "imgUrl": "img/charuto1-internacional.jpeg",
+      "price": "R$ 60,00",
+      "id": 7,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Dannemann",
+      "imgUrl": "img/charuto2-internacional.jpeg",
+      "price": "R$ 60,00",
+      "id": 8,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Cohiba VI",
+      "imgUrl": "img/charuto3-internacional.jpeg",
+      "price": "R$ 60,00",
+      "id": 9,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Cohiba Siglo",
+      "imgUrl": "img/charuto4-internacional.png",
+      "price": "R$ 60,00",
+      "id": 10,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Cohiba 17",
+      "imgUrl": "img/charuto5-internacional.png",
+      "price": "R$ 60,00",
+      "id": 11,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Cohiba 21",
+      "imgUrl": "img/charuto6-internacional.png",
+      "price": "R$ 60,00",
+      "id": 12,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Vinyl Yessir",
+      "imgUrl": "img/vinyl1.jpg",
+      "price": "R$ 60,00",
+      "id": 13,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Vinyl 2000",
+      "imgUrl": "img/vinyl2.png",
+      "price": "R$ 60,00",
+      "id": 14,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Vinyl KSG",
+      "imgUrl": "img/vinyl3.jpg",
+      "price": "R$ 60,00",
+      "id": 15,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Vinyl 1999",
+      "imgUrl": "img/vinyl4.png",
+      "price": "R$ 60,00",
+      "id": 16,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Vinyl Bandana",
+      "imgUrl": "img/vinyl5.png",
+      "price": "R$ 60,00",
+      "id": 17,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Lord Quas",
+      "imgUrl": "img/vinyl6.jpg",
+      "price": "R$ 60,00",
+      "id": 18,
+      "alt": "produto",
+      "description": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+    },
+    {
+      "name": "Lorem",
+      "imgUrl": "https://images.unsplash.com/photo-1612659429081-4d261418adc1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "price": "R$ 00,00",
+      "id": 19
+    },
+    {
+      "name": "BBS Aranha",
+      "imgUrl": "https://scontent.fbau2-1.fna.fbcdn.net/v/t1.6435-9/67821343_2072610479713941_6956880544504217600_n.jpg?stp=dst-jpg_p960x960&_nc_cat=102&ccb=1-7&_nc_sid=36a2c1&_nc_ohc=ZDjIgv1USlYAX-c7O7N&_nc_ht=scontent.fbau2-1.fna&oh=00_AfDtTfTvn8bvRsqXw77SqfWHRgEYybXi5NIcnJyAqcQysQ&oe=6445979D",
+      "price": "R$ 60,00",
+      "id": 20
+    },
+    {
+      "name": "Cohiba CC",
+      "imgUrl": "https://images.pexels.com/photos/10233536/pexels-photo-10233536.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "R$ 60,00",
+      "id": 21
+    },
+    {
+      "name": "Ramsay Lowlow",
+      "imgUrl": "https://images.unsplash.com/photo-1648052845121-dec461c2f7d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=399&q=80",
+      "price": "R$ 60,00",
+      "id": 22
+    },
+    {
+      "name": "s14",
+      "imgUrl": "https://images.unsplash.com/photo-1648052845049-d6e18306ae94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=399&q=80",
+      "price": "R$ 60,00",
+      "id": 23
+    },
+    {
+      "name": "TAS",
+      "imgUrl": "http://speedhunters-wp-production.s3.amazonaws.com/wp-content/uploads/2023/01/12232317/DSC04912-copy-1200x800.jpg",
+      "price": "R$ 00,00",
+      "id": 24
+    }
+  ]
+}
